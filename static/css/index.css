@@ -16,9 +16,17 @@
 	text-shadow: 0 0 0.5em #9c9c9c, 0 0 0.5em #9c9c9c;
 }
 
+#home .top-header {
+    padding: 1em 0;
+    min-height: 750px;
+}
+
 #home .top-header-info {
 	text-align: center;
-	margin-top: 12em;
+	margin-top: 6em;
+    color: #FFF;
+    font-size: 3em;
+    line-height: 1.3em;
 }
 
 #home .top-header-info p {
