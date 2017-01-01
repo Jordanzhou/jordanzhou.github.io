@@ -8,13 +8,17 @@
 #home .home {
 	line-height: 45px; 
 	font-size: 25px;
-	font-family: 'nexa_boldregular';
 }
 
 #home .home a {
 	color: #fff; 
 	text-decoration: none;
 	text-shadow: 0 0 0.5em #9c9c9c, 0 0 0.5em #9c9c9c;
+}
+
+#home .top-header-info {
+	text-align: center;
+	margin-top: 12em;
 }
 
 #home .top-header-info p {
@@ -50,7 +54,6 @@
 
 .block {
 	padding: 3em 0;
-	font-family: 'Avenir Next';
 }
 
 .block h1 {
@@ -69,7 +72,6 @@
 #motto p {
     color: #FFF;
     font-size: 2em;
-    font-family: 'nexa_boldregular';
     width: 90%;
     margin: 0 auto;
     text-shadow:0 0 0.5em #555, -0 -0 0.5em #555;
@@ -203,7 +205,6 @@
 .address label {
     color: #333;
     font-size: 1em;
-    font-family: 'nexa_boldregular';
     display: block;
 }
 
