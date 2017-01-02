@@ -1,3 +1,7 @@
+body {
+	font-family: 'SimHei';
+}
+
 #home .top-header {
 	background:url(../images/header-bg.jpg);
 	background-repeat:no-repeat;
